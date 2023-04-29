@@ -2,7 +2,7 @@
 
 Neovim Lua completion for ddc.vim
 
-This source collects candidates from neovim Lua modules. It is useful for Lua
+This source collects items from neovim Lua modules. It is useful for Lua
 completion.
 
 ## Required

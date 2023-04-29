@@ -13,7 +13,7 @@ Examples		|ddc-source-nvim-lua-examples|
 ==============================================================================
 INTRODUCTION				*ddc-source-nvim-lua-introduction*
 
-This source collects candidates from neovim Lua modules. It is useful for Lua
+This source collects items from neovim Lua modules. It is useful for Lua
 completion.
 
 
