@@ -31,7 +31,6 @@ https://github.com/vim-denops/denops.vim
 ==============================================================================
 EXAMPLES					*ddc-source-nvim-lua-examples*
 >
->
 	call ddc#custom#patch_filetype('lua', 'sources', ['nvim-lua'])
 	
 	call ddc#custom#patch_global('sourceOptions', #{
