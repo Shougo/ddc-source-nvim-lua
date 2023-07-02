@@ -16,6 +16,9 @@ INTRODUCTION				*ddc-source-nvim-lua-introduction*
 This source collects items from neovim Lua modules. It is useful for Lua
 completion.
 
+NOTE: The source is already deprecated.  Please use the source instead.
+
+https://github.com/uga-rosa/ddc-source-nvim-lua
 
 ==============================================================================
 INSTALL						*ddc-source-nvim-lua-install*

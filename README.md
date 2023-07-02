@@ -2,6 +2,10 @@
 
 Neovim Lua completion for ddc.vim
 
+**Note**: The source is already deprecated.  Please use the source instead.
+
+https://github.com/uga-rosa/ddc-source-nvim-lua
+
 This source collects items from neovim Lua modules. It is useful for Lua
 completion.
 
